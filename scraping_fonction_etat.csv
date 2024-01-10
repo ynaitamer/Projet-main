@@ -1,0 +1,207 @@
+Unnamed: 0,index,fonction,cat,grade,Echelon,durée,Indice Brut,Indice majoré,salaire brut,indice majoré calculé
+1368,1649,Vice-président du Conseil d'Etat,A,1,1,inf,HEG,-,7075.9,1510.0
+1380,1734,Secrétaire général du Conseil d'Etat-CE,A,1,1,1.0,HEBbis,-,4999.99,1067.0
+1381,1735,Secrétaire général du Conseil d'Etat-CE,A,1,2,1.0,HEBbis2,-,5131.2,1095.0
+1382,1736,Secrétaire général du Conseil d'Etat-CE,A,1,3,inf,HEBbis3,-,5267.09,1124.0
+1448,1914,Président de section du Conseil d'Etat,A,1,1,inf,HEF,-,6457.34,1378.0
+1449,1916,Maître des requêtes du Conseil d'Etat -CE,A,1,1,2.0,813,667,3125.58,667.0
+1450,1917,Maître des requêtes du Conseil d'Etat -CE,A,1,2,2.0,862,705,3303.65,705.0
+1451,1918,Maître des requêtes du Conseil d'Etat -CE,A,1,3,2.0,912,743,3481.72,743.0
+1452,1919,Maître des requêtes du Conseil d'Etat -CE,A,1,4,2.0,977,792,3711.33,792.0
+1453,1920,Maître des requêtes du Conseil d'Etat -CE,A,1,5,2.0,1027,830,3889.4,830.0
+1454,1921,Maître des requêtes du Conseil d'Etat -CE,A,1,6,0.6666666666666666,HEA,-,4170.56,890.0
+1455,1922,Maître des requêtes du Conseil d'Etat -CE,A,1,7,0.6666666666666666,HEA2,-,4334.57,925.0
+1456,1923,Maître des requêtes du Conseil d'Etat -CE,A,1,8,0.6666666666666666,HEA3,-,4554.82,972.0
+1457,1924,Maître des requêtes du Conseil d'Etat -CE,A,1,9,0.6666666666666666,HEB,-,4554.82,972.0
+1458,1925,Maître des requêtes du Conseil d'Etat -CE,A,1,10,0.6666666666666666,HEB2,-,4746.94,1013.0
+1459,1926,Maître des requêtes du Conseil d'Etat -CE,A,1,11,0.6666666666666666,HEB3,-,4999.99,1067.0
+1460,1927,Maître des requêtes du Conseil d'Etat -CE,A,1,12,0.6666666666666666,HEBbis,-,4999.99,1067.0
+1461,1928,Maître des requêtes du Conseil d'Etat -CE,A,1,13,0.6666666666666666,HEBbis2,-,5131.2,1095.0
+1462,1929,Maître des requêtes du Conseil d'Etat -CE,A,1,14,inf,HEBbis3,-,5267.09,1124.0
+1534,2036,Magistrat du tribunal administratif et cour administrative d’appel,A,1,1,2.0,1027,830,3889.4,830.0
+1535,2037,Magistrat du tribunal administratif et cour administrative d’appel,A,1,2,0.6666666666666666,HEA,-,4170.56,890.0
+1536,2038,Magistrat du tribunal administratif et cour administrative d’appel,A,1,3,0.6666666666666666,HEA2,-,4334.57,925.0
+1537,2039,Magistrat du tribunal administratif et cour administrative d’appel,A,1,4,0.6666666666666666,HEA3,-,4554.82,972.0
+1538,2040,Magistrat du tribunal administratif et cour administrative d’appel,A,1,5,1.0,HEB,-,4554.82,972.0
+1539,2041,Magistrat du tribunal administratif et cour administrative d’appel,A,1,6,1.0,HEB2,-,4746.94,1013.0
+1540,2042,Magistrat du tribunal administratif et cour administrative d’appel,A,1,7,1.0,HEB3,-,4999.99,1067.0
+1541,2043,Magistrat du tribunal administratif et cour administrative d’appel,A,1,8,1.0,HEBbis,-,4999.99,1067.0
+1542,2044,Magistrat du tribunal administratif et cour administrative d’appel,A,1,9,1.0,HEBbis,-,4999.99,1067.0
+1543,2045,Magistrat du tribunal administratif et cour administrative d’appel,A,1,10,1.0,HEBbis,-,4999.99,1067.0
+1544,2046,Magistrat du tribunal administratif et cour administrative d’appel,A,1,11,1.0,HEC,-,5267.09,1124.0
+1545,2047,Magistrat du tribunal administratif et cour administrative d’appel,A,1,12,1.0,HEC2,-,5379.56,1148.0
+1546,2048,Magistrat du tribunal administratif et cour administrative d’appel,A,1,13,1.0,HEC3,-,5496.71,1173.0
+1547,2049,Magistrat du tribunal administratif et cour administrative d’appel,A,1,14,1.0,HED,-,5496.71,1173.0
+1548,2050,Magistrat du tribunal administratif et cour administrative d’appel,A,1,15,1.0,HED2,-,5745.07,1226.0
+1549,2051,Magistrat du tribunal administratif et cour administrative d’appel,A,1,16,1.0,HED3,-,5993.43,1279.0
+1550,2052,Magistrat du tribunal administratif et cour administrative d’appel,A,1,17,1.0,HEE,-,5993.43,1279.0
+1551,2053,Magistrat du tribunal administratif et cour administrative d’appel,A,1,18,inf,HEE2,-,6227.73,1329.0
+1552,2054,Magistrat du tribunal administratif et cour administrative d’appel,A,2,1,1.0,762,628,2942.82,628.0
+1553,2055,Magistrat du tribunal administratif et cour administrative d’appel,A,2,2,1.0,813,667,3125.58,667.0
+1554,2056,Magistrat du tribunal administratif et cour administrative d’appel,A,2,3,2.0,883,720,3373.94,720.0
+1555,2057,Magistrat du tribunal administratif et cour administrative d’appel,A,2,4,2.0,953,773,3622.3,773.0
+1556,2058,Magistrat du tribunal administratif et cour administrative d’appel,A,2,5,3.0,1027,830,3889.4,830.0
+1557,2059,Magistrat du tribunal administratif et cour administrative d’appel,A,2,6,1.0,HEA,-,4170.56,890.0
+1558,2060,Magistrat du tribunal administratif et cour administrative d’appel,A,2,7,1.0,HEA2,-,4334.57,925.0
+1559,2061,Magistrat du tribunal administratif et cour administrative d’appel,A,2,8,1.0,HEA3,-,4554.82,972.0
+1560,2062,Magistrat du tribunal administratif et cour administrative d’appel,A,2,9,1.0,HEB,-,4554.82,972.0
+1561,2063,Magistrat du tribunal administratif et cour administrative d’appel,A,2,10,1.0,HEB2,-,4746.94,1013.0
+1562,2064,Magistrat du tribunal administratif et cour administrative d’appel,A,2,11,1.0,HEB3,-,4999.99,1067.0
+1563,2065,Magistrat du tribunal administratif et cour administrative d’appel,A,2,12,1.0,HEBbis,-,4999.99,1067.0
+1564,2066,Magistrat du tribunal administratif et cour administrative d’appel,A,2,13,1.0,HEBbis2,-,5131.2,1095.0
+1565,2067,Magistrat du tribunal administratif et cour administrative d’appel,A,2,14,inf,HEBbis3,-,5267.09,1124.0
+1566,2068,Magistrat du tribunal administratif et cour administrative d’appel,A,3,1,1.0,441,388,1818.18,388.0
+1567,2069,Magistrat du tribunal administratif et cour administrative d’appel,A,3,2,1.0,485,420,1968.13,420.0
+1568,2070,Magistrat du tribunal administratif et cour administrative d’appel,A,3,3,1.0,542,461,2160.26,461.0
+1569,2071,Magistrat du tribunal administratif et cour administrative d’appel,A,3,4,1.0,600,505,2366.44,505.0
+1570,2072,Magistrat du tribunal administratif et cour administrative d’appel,A,3,5,2.0,665,555,2600.74,555.0
+1571,2073,Magistrat du tribunal administratif et cour administrative d’appel,A,3,6,2.0,713,591,2769.44,591.0
+1572,2074,Magistrat du tribunal administratif et cour administrative d’appel,A,3,7,inf,762,628,2942.82,628.0
+1573,2096,Magistrat du second grade provisoire de l'ordre judiciaire,A,1,1,1.5,542,461,2160.26,461.0
+1574,2097,Magistrat du second grade provisoire de l'ordre judiciaire,A,1,2,1.5,600,505,2366.44,505.0
+1575,2098,Magistrat du second grade provisoire de l'ordre judiciaire,A,1,3,2.0,665,555,2600.74,555.0
+1576,2099,Magistrat du second grade provisoire de l'ordre judiciaire,A,1,4,2.0,713,591,2769.44,591.0
+1577,2100,Magistrat du second grade provisoire de l'ordre judiciaire,A,1,5,2.0,762,628,2942.82,628.0
+1578,2101,Magistrat du second grade provisoire de l'ordre judiciaire,A,1,6,3.0,813,667,3125.58,667.0
+1579,2102,Magistrat du second grade provisoire de l'ordre judiciaire,A,1,7,3.0,862,705,3303.65,705.0
+1580,2103,Magistrat du second grade provisoire de l'ordre judiciaire,A,1,8,3.0,912,743,3481.72,743.0
+1581,2104,Magistrat du second grade provisoire de l'ordre judiciaire,A,1,9,4.0,977,792,3711.33,792.0
+1582,2105,Magistrat du second grade provisoire de l'ordre judiciaire,A,1,10,inf,1027,830,3889.4,830.0
+1583,2106,Magistrat du second grade de l'ordre judiciaire,A,1,1,1.0,542,461,2160.26,461.0
+1584,2107,Magistrat du second grade de l'ordre judiciaire,A,1,2,1.0,600,505,2366.44,505.0
+1585,2108,Magistrat du second grade de l'ordre judiciaire,A,1,3,2.0,665,555,2600.74,555.0
+1586,2109,Magistrat du second grade de l'ordre judiciaire,A,1,4,2.0,713,591,2769.44,591.0
+1587,2110,Magistrat du second grade de l'ordre judiciaire,A,1,5,inf,762,628,2942.82,628.0
+1588,2134,Magistrat du premier grade de l'ordre judiciaire,A,1,1,1.5,813,667,3125.58,667.0
+1589,2135,Magistrat du premier grade de l'ordre judiciaire,A,1,2,1.5,862,705,3303.65,705.0
+1590,2136,Magistrat du premier grade de l'ordre judiciaire,A,1,3,1.5,912,743,3481.72,743.0
+1591,2137,Magistrat du premier grade de l'ordre judiciaire,A,1,4,1.5,977,792,3711.33,792.0
+1592,2138,Magistrat du premier grade de l'ordre judiciaire,A,1,5,2.0,1027,830,3889.4,830.0
+1593,2139,Magistrat du premier grade de l'ordre judiciaire,A,1,6,1.0,HEA,-,4170.56,890.0
+1594,2140,Magistrat du premier grade de l'ordre judiciaire,A,1,7,1.0,HEA2,-,4334.57,925.0
+1595,2141,Magistrat du premier grade de l'ordre judiciaire,A,1,8,1.0,HEA3,-,4554.82,972.0
+1596,2142,Magistrat du premier grade de l'ordre judiciaire,A,1,9,1.0,HEB,-,4554.82,972.0
+1597,2143,Magistrat du premier grade de l'ordre judiciaire,A,1,10,1.0,HEB2,-,4746.94,1013.0
+1598,2144,Magistrat du premier grade de l'ordre judiciaire,A,1,11,1.0,HEB3,-,4999.99,1067.0
+1599,2145,Magistrat du premier grade de l'ordre judiciaire,A,1,12,1.0,HEBbis,-,4999.99,1067.0
+1600,2146,Magistrat du premier grade de l'ordre judiciaire,A,1,13,1.0,HEBbis2,-,5131.2,1095.0
+1601,2147,Magistrat du premier grade de l'ordre judiciaire,A,1,14,inf,HEBbis3,-,5267.09,1124.0
+1918,2820,Coordonnateur de formation de l'Ecole nationale de la magistrature (ENM),A,1,1,1.5,813,667,3125.58,667.0
+1919,2821,Coordonnateur de formation de l'Ecole nationale de la magistrature (ENM),A,1,2,1.5,862,705,3303.65,705.0
+1920,2822,Coordonnateur de formation de l'Ecole nationale de la magistrature (ENM),A,1,3,1.5,912,743,3481.72,743.0
+1921,2823,Coordonnateur de formation de l'Ecole nationale de la magistrature (ENM),A,1,4,1.5,977,792,3711.33,792.0
+1922,2824,Coordonnateur de formation de l'Ecole nationale de la magistrature (ENM),A,1,5,2.0,1027,830,3889.4,830.0
+1923,2825,Coordonnateur de formation de l'Ecole nationale de la magistrature (ENM),A,1,6,1.0,HEA,-,4170.56,890.0
+1924,2826,Coordonnateur de formation de l'Ecole nationale de la magistrature (ENM),A,1,7,1.0,HEA2,-,4334.57,925.0
+1925,2827,Coordonnateur de formation de l'Ecole nationale de la magistrature (ENM),A,1,8,1.0,HEA3,-,4554.82,972.0
+1926,2828,Coordonnateur de formation de l'Ecole nationale de la magistrature (ENM),A,1,9,1.0,HEB,-,4554.82,972.0
+1927,2829,Coordonnateur de formation de l'Ecole nationale de la magistrature (ENM),A,1,10,1.0,HEB2,-,4746.94,1013.0
+1928,2830,Coordonnateur de formation de l'Ecole nationale de la magistrature (ENM),A,1,11,1.0,HEB3,-,4999.99,1067.0
+1929,2831,Coordonnateur de formation de l'Ecole nationale de la magistrature (ENM),A,1,12,1.0,HEC,-,5267.09,1124.0
+1930,2832,Coordonnateur de formation de l'Ecole nationale de la magistrature (ENM),A,1,13,1.0,HEC2,-,5379.56,1148.0
+1931,2833,Coordonnateur de formation de l'Ecole nationale de la magistrature (ENM),A,1,14,inf,HEC3,-,5496.71,1173.0
+2011,2991,Chef de service éducatif de la protection judiciaire de la jeunesse,A,1,1,2.0,548,466,2183.69,466.0
+2012,2992,Chef de service éducatif de la protection judiciaire de la jeunesse,A,1,2,2.0,572,483,2263.35,483.0
+2013,2993,Chef de service éducatif de la protection judiciaire de la jeunesse,A,1,3,2.0,590,498,2333.64,498.0
+2014,2994,Chef de service éducatif de la protection judiciaire de la jeunesse,A,1,4,2.0,626,525,2460.16,525.0
+2015,2995,Chef de service éducatif de la protection judiciaire de la jeunesse,A,1,5,2.5,655,546,2558.57,546.0
+2016,2996,Chef de service éducatif de la protection judiciaire de la jeunesse,A,1,6,2.5,680,566,2652.29,566.0
+2017,2997,Chef de service éducatif de la protection judiciaire de la jeunesse,A,1,7,2.5,709,588,2755.38,588.0
+2018,2998,Chef de service éducatif de la protection judiciaire de la jeunesse,A,1,8,3.0,734,607,2844.42,607.0
+2019,2999,Chef de service éducatif de la protection judiciaire de la jeunesse,A,1,9,inf,776,638,2989.68,638.0
+2085,3134,Auditeur du Conseil d'Etat,A,1,1,1.5,665,555,2600.74,555.0
+2086,3135,Auditeur du Conseil d'Etat,A,1,2,2.0,713,591,2769.44,591.0
+2087,3136,Auditeur du Conseil d'Etat,A,1,3,2.0,762,628,2942.82,628.0
+2088,3137,Auditeur du Conseil d'Etat,A,1,4,inf,813,667,3125.58,667.0
+2089,3138,Auditeur du Conseil d'Etat,A,2,1,1.0,441,388,1818.18,388.0
+2090,3139,Auditeur du Conseil d'Etat,A,2,2,1.0,485,420,1968.13,420.0
+2091,3140,Auditeur du Conseil d'Etat,A,2,3,1.0,542,461,2160.26,461.0
+2092,3141,Auditeur du Conseil d'Etat,A,2,4,2.0,600,505,2366.44,505.0
+2093,3142,Auditeur du Conseil d'Etat,A,2,5,2.0,665,555,2600.74,555.0
+2094,3143,Auditeur du Conseil d'Etat,A,2,6,2.0,713,591,2769.44,591.0
+2095,3144,Auditeur du Conseil d'Etat,A,2,7,inf,762,628,2942.82,628.0
+5501,7470,Administrateur de l'éducation nationale et de la Jeunesse,A,1,1,1.0,813,667,3125.58,667.0
+5502,7471,Administrateur de l'éducation nationale et de la Jeunesse,A,1,2,1.5,853,697,3266.16,697.0
+5503,7472,Administrateur de l'éducation nationale et de la Jeunesse,A,1,3,1.5,883,720,3373.94,720.0
+5504,7473,Administrateur de l'éducation nationale et de la Jeunesse,A,1,4,2.5,912,743,3481.72,743.0
+5505,7474,Administrateur de l'éducation nationale et de la Jeunesse,A,1,5,2.5,977,792,3711.33,792.0
+5506,7475,Administrateur de l'éducation nationale et de la Jeunesse,A,1,6,3.0,1027,830,3889.4,830.0
+5507,7476,Administrateur de l'éducation nationale et de la Jeunesse,A,1,7,1.0,HEA,-,4170.56,890.0
+5508,7477,Administrateur de l'éducation nationale et de la Jeunesse,A,1,8,1.0,HEA2,-,4334.57,925.0
+5509,7478,Administrateur de l'éducation nationale et de la Jeunesse,A,1,9,inf,HEA3,-,4554.82,972.0
+8658,11912,Secrétaire administratif des administrations de l'Etat,B,1,1,1.0,446,392,1836.92,392.0
+8659,11913,Secrétaire administratif des administrations de l'Etat,B,1,2,2.0,461,404,1893.15,404.0
+8660,11914,Secrétaire administratif des administrations de l'Etat,B,1,3,2.0,484,419,1963.44,419.0
+8661,11915,Secrétaire administratif des administrations de l'Etat,B,1,4,2.0,513,441,2066.54,441.0
+8662,11916,Secrétaire administratif des administrations de l'Etat,B,1,5,2.0,547,465,2179.0,465.0
+8663,11917,Secrétaire administratif des administrations de l'Etat,B,1,6,3.0,573,484,2268.04,484.0
+8664,11918,Secrétaire administratif des administrations de l'Etat,B,1,7,3.0,604,508,2380.5,508.0
+8665,11919,Secrétaire administratif des administrations de l'Etat,B,1,8,3.0,638,534,2502.34,534.0
+8666,11920,Secrétaire administratif des administrations de l'Etat,B,1,9,3.0,660,551,2582.0,551.0
+8667,11921,Secrétaire administratif des administrations de l'Etat,B,1,10,3.0,684,569,2666.35,569.0
+8668,11922,Secrétaire administratif des administrations de l'Etat,B,1,11,inf,707,587,2750.7,587.0
+8669,11923,Secrétaire administratif des administrations de l'Etat,B,2,1,2.0,389,356,1668.22,356.0
+8670,11924,Secrétaire administratif des administrations de l'Etat,B,2,2,2.0,399,362,1696.34,362.0
+8671,11925,Secrétaire administratif des administrations de l'Etat,B,2,3,2.0,415,369,1729.14,369.0
+8672,11926,Secrétaire administratif des administrations de l'Etat,B,2,4,2.0,429,379,1776.0,379.0
+8673,11927,Secrétaire administratif des administrations de l'Etat,B,2,5,2.0,444,390,1827.55,390.0
+8674,11928,Secrétaire administratif des administrations de l'Etat,B,2,6,2.0,458,401,1879.1,401.0
+8675,11929,Secrétaire administratif des administrations de l'Etat,B,2,7,2.0,480,416,1949.39,416.0
+8676,11930,Secrétaire administratif des administrations de l'Etat,B,2,8,3.0,506,436,2043.11,436.0
+8677,11931,Secrétaire administratif des administrations de l'Etat,B,2,9,3.0,528,452,2118.08,452.0
+8678,11932,Secrétaire administratif des administrations de l'Etat,B,2,10,3.0,542,461,2160.26,461.0
+8679,11933,Secrétaire administratif des administrations de l'Etat,B,2,11,3.0,567,480,2249.29,480.0
+8680,11934,Secrétaire administratif des administrations de l'Etat,B,2,12,4.0,599,504,2361.76,504.0
+8681,11935,Secrétaire administratif des administrations de l'Etat,B,2,13,inf,638,534,2502.34,534.0
+8682,11936,Secrétaire administratif des administrations de l'Etat,B,3,1,2.0,372,343,1607.31,343.0
+8683,11937,Secrétaire administratif des administrations de l'Etat,B,3,2,2.0,379,349,1635.42,349.0
+8684,11938,Secrétaire administratif des administrations de l'Etat,B,3,3,2.0,388,355,1663.54,355.0
+8685,11939,Secrétaire administratif des administrations de l'Etat,B,3,4,2.0,397,361,1691.66,361.0
+8686,11940,Secrétaire administratif des administrations de l'Etat,B,3,5,2.0,415,369,1729.14,369.0
+8687,11941,Secrétaire administratif des administrations de l'Etat,B,3,6,2.0,431,381,1785.38,381.0
+8688,11942,Secrétaire administratif des administrations de l'Etat,B,3,7,2.0,452,396,1855.67,396.0
+8689,11943,Secrétaire administratif des administrations de l'Etat,B,3,8,3.0,478,415,1944.7,415.0
+8690,11944,Secrétaire administratif des administrations de l'Etat,B,3,9,3.0,500,431,2019.68,431.0
+8691,11945,Secrétaire administratif des administrations de l'Etat,B,3,10,3.0,513,441,2066.54,441.0
+8692,11946,Secrétaire administratif des administrations de l'Etat,B,3,11,3.0,538,457,2141.51,457.0
+8693,11947,Secrétaire administratif des administrations de l'Etat,B,3,12,4.0,563,477,2235.23,477.0
+8694,11948,Secrétaire administratif des administrations de l'Etat,B,3,13,inf,597,503,2357.07,503.0
+9026,12304,Administrateur de l'Etat,A,1,1,3.0,1027,830,3889.4,830.0
+9027,12305,Administrateur de l'Etat,A,1,2,1.0,HEA,-,4170.56,890.0
+9028,12306,Administrateur de l'Etat,A,1,3,1.0,HEA2,-,4334.57,925.0
+9029,12307,Administrateur de l'Etat,A,1,4,1.0,HEA3,-,4554.82,972.0
+9030,12308,Administrateur de l'Etat,A,1,5,1.0,HEB,-,4554.82,972.0
+9031,12309,Administrateur de l'Etat,A,1,6,1.0,HEB2,-,4746.94,1013.0
+9032,12310,Administrateur de l'Etat,A,1,7,1.0,HEB3,-,4999.99,1067.0
+9033,12311,Administrateur de l'Etat,A,1,8,1.0,HEBBis,-,4999.99,1067.0
+9034,12312,Administrateur de l'Etat,A,1,9,1.0,HEBbis2,-,5131.2,1095.0
+9035,12313,Administrateur de l'Etat,A,1,10,1.0,HEBbis3,-,5267.09,1124.0
+9036,12314,Administrateur de l'Etat,A,1,11,1.0,HEC,-,5267.09,1124.0
+9037,12315,Administrateur de l'Etat,A,1,12,1.0,HEC2,-,5379.56,1148.0
+9038,12316,Administrateur de l'Etat,A,1,13,2.0,HEC3,-,5496.71,1173.0
+9039,12317,Administrateur de l'Etat,A,1,14,1.0,HED,-,5496.71,1173.0
+9040,12318,Administrateur de l'Etat,A,1,15,1.0,HED2,-,5745.07,1226.0
+9041,12319,Administrateur de l'Etat,A,1,16,inf,HED3,-,5993.43,1279.0
+9042,12320,Administrateur de l'Etat,A,2,1,2.0,813,667,3125.58,667.0
+9043,12321,Administrateur de l'Etat,A,2,2,2.0,862,705,3303.65,705.0
+9044,12322,Administrateur de l'Etat,A,2,3,2.0,912,743,3481.72,743.0
+9045,12323,Administrateur de l'Etat,A,2,4,3.0,977,792,3711.33,792.0
+9046,12324,Administrateur de l'Etat,A,2,5,3.0,1027,830,3889.4,830.0
+9047,12325,Administrateur de l'Etat,A,2,6,1.0,HEA,-,4170.56,890.0
+9048,12326,Administrateur de l'Etat,A,2,7,1.0,HEA2,-,4334.57,925.0
+9049,12327,Administrateur de l'Etat,A,2,8,1.0,HEA3,-,4554.82,972.0
+9050,12328,Administrateur de l'Etat,A,2,9,1.0,HEB,-,4554.82,972.0
+9051,12329,Administrateur de l'Etat,A,2,10,1.0,HEB2,-,4746.94,1013.0
+9052,12330,Administrateur de l'Etat,A,2,11,2.0,HEB3,-,4999.99,1067.0
+9053,12332,Administrateur de l'Etat,A,2,12,1.0,HEBbis2,-,5131.2,1095.0
+9054,12333,Administrateur de l'Etat,A,2,13,inf,HEBbis3,-,5267.09,1124.0
+9055,12334,Administrateur de l'Etat,A,3,1,0.5,542,461,2160.26,461.0
+9056,12335,Administrateur de l'Etat,A,3,2,1.0,600,505,2366.44,505.0
+9057,12336,Administrateur de l'Etat,A,3,3,1.0,665,555,2600.74,555.0
+9058,12337,Administrateur de l'Etat,A,3,4,1.0,713,591,2769.44,591.0
+9059,12338,Administrateur de l'Etat,A,3,5,1.5,762,628,2942.82,628.0
+9060,12339,Administrateur de l'Etat,A,3,6,2.0,813,667,3125.58,667.0
+9061,12340,Administrateur de l'Etat,A,3,7,2.0,862,705,3303.65,705.0
+9062,12341,Administrateur de l'Etat,A,3,8,2.0,912,743,3481.72,743.0
+9063,12342,Administrateur de l'Etat,A,3,9,3.0,977,792,3711.33,792.0
+9064,12343,Administrateur de l'Etat,A,3,10,inf,1015,821,3847.23,821.0
